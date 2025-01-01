@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Current project
+*/.vs/
+cadexchanger-test/cadexcha.5aeec597/
